@@ -24,4 +24,4 @@ We first detect outlier, and remove outlier, and then run regression and compare
 #### Method 2:
 We detect outlier and run regression simultaneously. For some of the labled data, the performance is significantly better, for some they are not. Due to the nature that some datasets will have outliers in the training acting as outliers as well in the testing data, and thus the accuracy is not so well in the real-world dataset if all data too far away from the median are removed.
 
-Please see the detailed PDF of my approach linked:
+Please see the detailed PDF of my approach in Poster.pdf
